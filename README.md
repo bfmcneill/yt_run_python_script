@@ -39,3 +39,10 @@ The entry point to the cli will only work if you have gone through the setup ste
 ```powershell
 pycmd
 ```
+
+## References
+
+- [Explain Python entry points?](https://stackoverflow.com/questions/774824/explain-python-entry-points)
+- [setup.py: renaming src package to project name](https://stackoverflow.com/a/14421176)
+- [Setup.py ReadTheDocs.io](https://setuptools.readthedocs.io/en/latest/userguide/package_discovery.html)
+- [Click](https://click.palletsprojects.com/en/latest/)
