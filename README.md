@@ -27,3 +27,13 @@ python -m pip install -- upgrade pip pip-tools
 ```powershell
 pip install -e .
 ```
+
+## usage
+
+The entry point to the cli will only work if you have gone through the setup steps.
+
+### trigger the entrypoint (must have virtual environment activated)
+
+```powershell
+pycmd
+```
