@@ -4,6 +4,8 @@
 
 ### 1. clone the repo
 
+- clone this >> [yt_run_python_script](https://github.com/bfmcneill/yt_run_python_script)
+
 ### 2. install a virtual environment
 
 ```powershell
